@@ -1,6 +1,6 @@
 # [📈 Live Status](https://azuwata.github.io/upptime): <!--live status--> **🟩 すべてのシステムは正常に稼働**
 
-This repository contains the open-source uptime monitor and status page for [azuwata](https://azuwata.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
+このリポジトリは[Upptime](https://github.com/upptime/upptime)を利用した、オープンソースの死活監視(稼働時間モニターとステータスページ)です。 ステータスページは[azuwata](https://azuwata.github.io/upptime) にどうぞ。
 
 [![Uptime CI](https://github.com/azuwata/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/azuwata/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
