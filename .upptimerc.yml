@@ -2,6 +2,11 @@
 owner: azuwata # Your GitHub organization or username
 repo: upptime # Your GitHub repository name
 
+env:
+  NOTIFICATION_SLACK: "true"
+  NOTIFICATION_SLACK_WEBHOOK: "true"
+  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
 # Add your sites here
 sites:
   - name: HIKAOKE
