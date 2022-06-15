@@ -1,7 +1,7 @@
 url: http://hikaoke.online
-status: up
-code: 200
-responseTime: 10320
-lastUpdated: 2022-06-15T06:46:59.454Z
+status: down
+code: 500
+responseTime: 10506
+lastUpdated: 2022-06-15T06:54:33.945Z
 startTime: Thu Apr 08 2021 23:30:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
