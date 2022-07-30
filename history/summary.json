@@ -4,17 +4,17 @@
     "url": "http://hikaoke.online",
     "icon": "https://favicons.githubusercontent.com/hikaoke.online",
     "slug": "hikaoke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1352,
-    "timeDay": 9042,
-    "timeWeek": 6200,
-    "timeMonth": 3781,
-    "timeYear": 1435,
+    "time": 1369,
+    "timeDay": 9135,
+    "timeWeek": 6414,
+    "timeMonth": 3916,
+    "timeYear": 1456,
     "dailyMinutesDown": {}
   }
 ]
